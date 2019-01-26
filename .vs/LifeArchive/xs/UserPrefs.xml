@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{641CDE85-D232-E882-F025-8C2917D941EF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ShowTip.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ShowTip.cs" Line="56" Column="28" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="171" Column="6" />
+      <File FileName="Assets/Scripts/Test.cs" Line="8" Column="17" />
+      <File FileName="Assets/Scripts/BackgroundController.cs" Line="10" Column="17" />
+      <File FileName="Assets/Scripts/ShakeCamera.cs" Line="10" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
